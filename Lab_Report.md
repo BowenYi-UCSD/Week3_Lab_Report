@@ -7,11 +7,11 @@
 
 
 
-* ##  **Part 1**: Show the code for my Simplest Search Engine from last week (week 2), attach three screenshots of my search engine performing add and query methods, and explain engine's behaviors.  
+ ##  **Part 1**: Show the code for my Simplest Search Engine from last week (week 2), attach three screenshots of my search engine performing add and query methods, and explain engine's behaviors.  
 
 
 
-* ## **Part 2**: Choose and explain two different bugs in this week's lab files.
+ ## **Part 2**: Choose and explain two different bugs in this week's lab files.
 
 
 
