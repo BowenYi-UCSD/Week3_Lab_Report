@@ -179,7 +179,7 @@ Server Started! Visit http://localhost:4000
 
  ### 3. Then, explain the connection between the symptom and the bug. Why does the bug cause that particular symptom for that particular input?
 
-<br>
+
 
 ### Are you excited? Now, let's get stared!
 
