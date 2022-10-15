@@ -167,15 +167,15 @@ Server Started! Visit http://localhost:4000
 ## [**Part 2**](*)
 ### This part, I'm gonna show you two bugs I've spotted in two different files assigned during Thursday's lab. In more detail, I'll show you: 
 
-<br>
+
 
  ### 1. The failure-inducing input (the code of the test)The symptom (the failing test output)
 
-<br>
+
 
  ### 2. The bug (the code fix needed) 
 
-<br>
+
 
  ### 3. Then, explain the connection between the symptom and the bug. Why does the bug cause that particular symptom for that particular input?
 
