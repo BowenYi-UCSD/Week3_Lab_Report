@@ -171,11 +171,7 @@ Server Started! Visit http://localhost:4000
 
  ### 1. The failure-inducing input (the code of the test)The symptom (the failing test output)
 
-
-
  ### 2. The bug (the code fix needed) 
-
-
 
  ### 3. Then, explain the connection between the symptom and the bug. Why does the bug cause that particular symptom for that particular input?
 
