@@ -13,7 +13,7 @@
 
 * ## [**Part 2**](*): Choose and explain two different bugs in this week's lab files.
 
-<br>
+
 
 ## Now, that's get started!
 
