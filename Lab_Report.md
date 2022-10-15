@@ -5,11 +5,11 @@
 
 ##   Hi there! This is Bowen. Welcome to week 3's lab report. Today's report consists of two parts: 
 
-<br>
+
 
 * ##  [**Part 1**](*): Show the code for my Simplest Search Engine from last week (week 2), attach three screenshots of my search engine performing add and query methods, and explain engine's behaviors.  
 
-<br>
+
 
 * ## [**Part 2**](*): Choose and explain two different bugs in this week's lab files.
 
