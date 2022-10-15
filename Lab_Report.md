@@ -1,13 +1,13 @@
-# <h1 style="color:blue;font-family:Times New Roman;"> Week 3 Lab </h1>
+#  Week 3 Lab 
 *Acknowledgement: Thanks to Beng Ngyuen, my group member in every lab session, who helped me find the bug of append() method in LinkedListExample.java file.*
 
 <br>
 
-##   Hi there! This is Bowen. Welcome to week 3's lab report. Today's report consists of two parts: 
+ Hi there! This is Bowen. Welcome to week 3's lab report. Today's report consists of two parts: 
 
- ##  **Part 1**: Show the code for my Simplest Search Engine from last week (week 2), attach three screenshots of my search engine performing add and query methods, and explain engine's behaviors.  
+**Part 1**: Show the code for my Simplest Search Engine from last week (week 2), attach three screenshots of my search engine performing add and query methods, and explain engine's behaviors.  
 
- ## **Part 2**: Choose and explain two different bugs in this week's lab files.
+**Part 2**: Choose and explain two different bugs in this week's lab files.
 
 ## Now, that's get started!
 
